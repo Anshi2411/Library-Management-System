@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Library Management System
 
 A **Java Servlet-based Library Management System** using MySQL, designed to help libraries manage books, members, and book borrowing efficiently. This system provides a user-friendly interface for administrators to handle the day-to-day operations of a library.
@@ -45,8 +45,5 @@ Before setting up the project, ensure you have the following installed:
 1. **Clone the repository:**
    
    ```bash
-   git clone https://github.com/drsnvs/Library-management-system.git
-   cd Library-management-system
-=======
-# Library-Management-System
->>>>>>> da221c0f685108f994c69d4e205d733b2384fc68
+   git clone https://github.com/Anshi2411/Library-Management-System.git
+   cd Library-Management-System
